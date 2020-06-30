@@ -113,7 +113,7 @@ h2{
         text-align: center;
         background: linear-gradient(to right, #8A42DB , #6479E1 );
         transition: 0.3s ease-out;
-         margin-bottom: 15px;
+        margin-top: 15px;
     }
     .download-btn:hover{
         transition: 0.3s ease-out;
