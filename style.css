@@ -34,13 +34,8 @@ margin-left:0rem;
 .title {
      font-size: 18px;
      font-weight: bold;
-<<<<<<< HEAD
      margin-top:10px;
      margin-bottom: 10px;
-=======
-    margin-top:10px;
-    margin-bottom:10px
->>>>>>> cb46d658751d2e872a3ef1a5775127d53ecbfa77
 }
 .welcome-title , .experience , .dream p {
      color: dimgray;
@@ -118,7 +113,7 @@ h2{
         text-align: center;
         background: linear-gradient(to right, #8A42DB , #6479E1 );
         transition: 0.3s ease-out;
-          margin-button:15px;
+         margin-bottom: 15px;
     }
     .download-btn:hover{
         transition: 0.3s ease-out;
