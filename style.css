@@ -17,23 +17,16 @@ body {
     background-repeat: no-repeat;
     background-position: left;
     margin-top: 5px;
-<<<<<<< HEAD
-    padding: 2rem 4%;
+    padding: 0rem 4%;
     margin-bottom:7rem ;
     margin-top:0rem ;
     margin-left:0rem;
-=======
-    padding: 1rem 4%;
-    margin-bottom:2rem ;
-margin-top:0rem ;
-margin-left:0rem;
->>>>>>> master
 
 }   
 .welcome-title  {
     margin: 0 auto;
     width: 40%;
-    padding-top: 6rem;
+    padding-top: 8rem;
 }
 .welcome-title span {
     font-family: 'Parisienne', cursive;
@@ -43,13 +36,8 @@ margin-left:0rem;
 .title {
      font-size: 18px;
      font-weight: bold;
-<<<<<<< HEAD
     margin-top:10px;
     margin-bottom:10px;
-=======
-     margin-top:10px;
-     margin-bottom: 10px;
->>>>>>> master
 }
 .welcome-title , .experience , .dream p {
      color: dimgray;
@@ -66,7 +54,7 @@ h2{
 .img-wrapper  {
     width: 40%;
     margin: 0 auto;
-    padding-top: 4rem;
+    padding-top: 6rem;
 }
 .img-wrapper img {
     width: 100%;
