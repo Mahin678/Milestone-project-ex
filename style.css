@@ -34,6 +34,8 @@ margin-left:0rem;
 .title {
      font-size: 18px;
      font-weight: bold;
+     margin-top:10px;
+     margin-bottom: 10px;
 }
 .welcome-title , .experience , .dream p {
      color: dimgray;
